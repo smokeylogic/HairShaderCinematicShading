@@ -1,0 +1,16 @@
+{
+  "name": "com.smokeylogic.hairshaders",
+  "version": "1.0.0",
+  "displayName": "Hair Shaders",
+  "description": "Cinematic Hair Shaders",
+  "unity": "2021.3", // Or your target Unity version
+  "keywords": [
+    "Shader",
+    "Hair",
+    "Cinematic"
+  ],
+  "author": {
+    "name": "SmokeyLogic",
+    "url": "https://github.com/smokeylogic"
+  }
+}
