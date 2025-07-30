@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Hair Shaders",
   "description": "Cinematic Hair Shaders",
-  "unity": "2021.3", // Or your target Unity version
+  "unity": "6000.0.24f1", 
   "keywords": [
     "Shader",
     "Hair",
