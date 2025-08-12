@@ -1,7 +1,7 @@
 # HairShaderCinematicShading
 Shader Graph to add color to your Unity Hair System. Also, you can experiment with the little monkey head from the previous tutorial. 
 
-# Youtube video shows you how to import the shader graph to your Unity project. 
+# Youtube video shows you how to import the shader graph to your Unity project. <a href="https://youtu.be/TKs2qSbsD_U"> Click here </a>
 <img width="580" height="320" alt="20" src="https://github.com/user-attachments/assets/8165e293-0103-4be8-949c-2c02ddd50495" />
 
 # Step to Import the Shader Graph:
